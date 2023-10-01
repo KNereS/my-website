@@ -156,6 +156,17 @@ main {
 
 .main-image img {
     max-width: 500px;
+    position: relative;
+    animation: floating 2s ease-in-out infinite alternate;
+}
+
+@keyframes floating {
+    0% {
+        top: 0;
+    }
+    100% {
+        top: 10px;
+    }
 }
 
 /* Footer */
