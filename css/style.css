@@ -18,7 +18,7 @@ body {
 
 header {
     background-color: #222222;
-    height: 100px;
+    height: 120px;
     padding: 0 5rem;
     box-shadow: 0 0 25px #222222;
     display: flex;
@@ -161,4 +161,15 @@ main {
 
 .main-image img {
     max-width: 500px;
+}
+
+/* Footer */
+
+footer {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 0.65rem;
+    color: #FFFFFF;
+    opacity: 15%;
+    text-align: center;
 }
