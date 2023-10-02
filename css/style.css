@@ -177,9 +177,9 @@ footer {
     font-size: 0.5rem;
     color: #FFFFFF;
     opacity: 15%;
-    text-align: center;
     height: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
