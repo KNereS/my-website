@@ -174,8 +174,12 @@ main {
 footer {
     font-family: "Poppins", sans-serif;
     font-weight: 300;
-    font-size: 0.65rem;
+    font-size: 0.5rem;
     color: #FFFFFF;
     opacity: 15%;
     text-align: center;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
