@@ -22,4 +22,6 @@
 
 - Home Page:
   
+![mywebsite](https://github.com/KNereS/my-website/assets/127334900/2effe0a7-e24a-4911-a5ed-a805e502f2a6)
+  
 https://github.com/KNereS/my-website/assets/127334900/fe0b4810-f669-4cb4-9156-81c34a4a840e
