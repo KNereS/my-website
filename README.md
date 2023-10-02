@@ -17,3 +17,9 @@
 - HTML;
 - CSS;
 - JavaScript.
+
+## Resultado Intermediário:
+
+- Home Page:
+  
+https://github.com/KNereS/my-website/assets/127334900/fe0b4810-f669-4cb4-9156-81c34a4a840e
