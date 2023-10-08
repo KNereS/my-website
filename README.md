@@ -1,6 +1,6 @@
 # Meu Website
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge)
 
 - Figma:
   
@@ -21,5 +21,7 @@
 ## Resultado Intermediário:
 
 - Home Page:
+  
+![mywebsite](https://github.com/KNereS/my-website/assets/127334900/2effe0a7-e24a-4911-a5ed-a805e502f2a6)
   
 https://github.com/KNereS/my-website/assets/127334900/fe0b4810-f669-4cb4-9156-81c34a4a840e
