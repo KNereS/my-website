@@ -182,7 +182,7 @@ main {
 @media screen and (max-width: 940px){
 
     header {
-        margin-top: 2rem;
+        margin-top: 1rem;
         gap: 2rem;
         justify-content: center;
         flex-direction: column;
