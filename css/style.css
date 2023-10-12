@@ -177,10 +177,6 @@ main {
         margin-top: 3rem;
         flex-direction: column;
     }
-
-    footer{
-        position: static;
-    }
 }
 
 @media screen and (max-width: 940px){
@@ -218,20 +214,20 @@ main {
 
 @media screen and (max-width: 440px){
     html{
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 400px){
+    html{
         font-size: 8px;
     }
 }
 
-@media screen and (max-width: 355px){
-    html{
-        font-size: 7px;
-    }
-}
-
-@media screen and (max-width: 300px){
+@media screen and (max-width: 350px){
     
     html{
-        font-size: 5px;
+        font-size: 7.5px;
     }
 
     .main-image img {
@@ -240,6 +236,14 @@ main {
 
     .header-logo a img {
         width: 100px;
+    }
+
+}
+
+@media screen and (max-width: 330px){
+
+    html{
+        font-size: 6px;
     }
 
 }
