@@ -215,6 +215,11 @@ main {
     .header-logo a img {
         width: 120px;
     }
+
+    .main-buttonsandlinks ul li a button{
+        width: 4rem;
+        height: 4rem;
+        font-size: 3rem;
 }
 
 @media screen and (max-width: 440px){
