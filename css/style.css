@@ -182,13 +182,18 @@ main {
 @media screen and (max-width: 940px){
 
     header {
+        margin-top: 3rem;
+        gap: 2rem;
         justify-content: center;
+        flex-direction: column;
     }
 
-    .header-navbar {
+}
+
+@media screen and (max-width: 740px){
+    .header-navbar{
         display: none;
     }
-
 }
 
 @media screen and (max-width: 715px){
