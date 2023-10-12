@@ -217,9 +217,13 @@ main {
     }
 
     .main-buttonsandlinks ul li a button{
-        width: 4rem;
-        height: 4rem;
-        font-size: 3rem;
+        width: 5rem;
+        height: 5rem;
+        font-size: 4rem;
+    }
+
+    .main-buttonsandlinks a {
+        font-size: 1.5rem;
     }
 }
 
